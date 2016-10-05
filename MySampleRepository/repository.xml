@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Repository label="Example SAS Studio Repository" version="1.0">
+
+	<Snippets>
+		<Category label="Example Snippets">
+			<Location uri="./snippets.xml"/>
+		</Category>  
+	</Snippets>
+	
+</Repository>
